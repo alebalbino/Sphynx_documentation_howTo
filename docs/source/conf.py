@@ -21,13 +21,6 @@ project = 'DEMO '
 copyright = '2024, Sinem and Alessandro'
 author = 'Sinem and Alessandro'
 
-# The full version, including alpha/beta/rc tags
-release = '1.0.0'
-
-
-# from sphinx_changelog import __version__
-# release = __version__
-
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
