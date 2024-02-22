@@ -46,8 +46,6 @@ extensions = [
     'sphinx_github_changelog'
 ]
 
-sphinx_github_changelog_token = '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'
-
 # Add any paths that contain templates here, relative to this directory.
 # templates_path = ['_templates']
 
