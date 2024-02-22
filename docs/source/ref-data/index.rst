@@ -15,7 +15,5 @@ As an example, only two of them added.
 :ref:`rt3k`
   provides rt3k information 
 
-.. .. toctree::
-.. 
-..   odometry/index
-..   rt3k/index
+.. toctree::
+  :hidden:
