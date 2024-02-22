@@ -7,5 +7,5 @@ Changelog Details
   :hidden:
 
 .. changelog::
-   :github: https://github.com/alebalbino/LoremIpsum/releases
+   :github: https://github.com/alebalbino/Sphynx_documentation_howTo/releases
 
