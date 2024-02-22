@@ -1,26 +1,33 @@
-.. Sphynx_documentation_howTo documentation master file, created by
-   sphinx-quickstart on Wed Feb 21 12:28:55 2024.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Welcome to DEMO - Reference Data Documentation!
+===============================================
 
-Sphynx_documentation_howTo
-==========================
+Check out the :doc:`usage` section for further information, including how to
+:ref:`install <installation>` the project.
 
-First example of documentation generated with Sphynx. 
-Enjoy!
+
+.. .. |DAM logo| image:: images/dam-logo.png
+..     :width: 150 px
+..     :alt: "Data Management Logo"
+.. 
+.. .. _data_management:
+.. 
+
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+    :caption: Usage
+    :maxdepth: 1
 
+    usage
 
+.. toctree::
+    :caption: Sensor Data
+    :maxdepth: 1
 
-Indices and tables
-==================
+    ref-data/index
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. toctree::
+    :caption: Changelog
+    :maxdepth: 1
 
-.. changelog::
-   :github: https://github.com/alebalbino/Sphynx_documentation_howTo/releases
+    changelog/index
+
